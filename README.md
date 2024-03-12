@@ -13,4 +13,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Diêgo Di Paulla GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegodipaulla&show_icons=true&theme=dracula)
+![Diêgo Di Paulla GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodipaulla&show_icons=true&theme=transparent)
