@@ -10,6 +10,8 @@
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
