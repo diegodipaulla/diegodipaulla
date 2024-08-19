@@ -15,4 +15,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Diego Di Paulla GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodipaulla&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=diegodipaulla&theme=dark&hide_border=true)](https://git.io/streak-stats)
