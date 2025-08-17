@@ -15,6 +15,7 @@
  ### 📌 Projetos em Destaque
 
  [![journey-nlw](https://github-readme-stats.vercel.app/api/pin/?username=diegodipaulla&repo=front-end-journey-nlw)](https://github.com/diegodipaulla/front-end-journey-nlw)
+ [![flutter_cep](https://github-readme-stats.vercel.app/api/pin/?username=diegodipaulla&repo=FlutterCepApp)](https://github.com/diegodipaulla/FlutterCepApp)
 
  ### 🚀 Linguagens Mais Usadas
 
